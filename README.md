@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @BishnuTibrewal
-- 👀 I’m interested in YOU
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Bishnu Tibrewal
+- 👀 I learn and Develop!
+- 🌱 Java, Javscript, TypeScript, ReactJS, NodeJS, Redux......and many more!
 - 💞️ I’m looking to collaborate on Anything & Everything
-- 📫 How to reach me Bishnu Kumar Tibrewal (Linked In)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Reach me on my Email or Linked In (Links attached to the profile)
 
-<!---
-BishnuTibrewal/BishnuTibrewal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
